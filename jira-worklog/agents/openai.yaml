@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jira 工時紀錄"
+  short_description: "每日或每週整理本人 Jira 工時，扣除會議並依實際工作粗略分配"
+  default_prompt: "使用 $jira-worklog 補登我本週的 Jira 工時，扣除會議並依名下當期處理的單粗略分配。"
